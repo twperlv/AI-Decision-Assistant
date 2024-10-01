@@ -1,5 +1,6 @@
 from logic import *
 
+# Events
 rain = Symbol("rain")
 heavy_traffic = Symbol("heavy traffic")
 early_meeting = Symbol("early meeting")
@@ -8,6 +9,7 @@ appointment = Symbol("appointment")
 road_construction = Symbol("road construction")
 overslept = Symbol("overslept")
 
+# Possible actions
 wfh = Symbol("wfh")
 drive = Symbol("drive")
 public_transport = Symbol("public transport")

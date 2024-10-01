@@ -6,7 +6,5 @@ of a specific scenario, which action to do using proportionnal logic, *i.e.* whe
 if you have to work from home, take public transport or drive.
 
 ## How to run
-To run the program, make sure logic.py and work.py are in the same folder, and then run the latter.
-
-
-
+To run the program, make sure *logic.py* and *work.py* are in the same folder, and run the latter.
+You can then create new scenarios with different events using the ```And()``` operator.
